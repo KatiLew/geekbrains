@@ -31,7 +31,7 @@ body {
 }
 .teaser{
     padding-top: 115px;
-    background-image: url(images/header_image.svg);
+    background-image: url(../images/header_image.svg);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -398,7 +398,7 @@ ul.footer_info li{
     padding-left: 191px;
 }
 .contacts_header_image{
-    background-image: url(images/contacts_header.svg);
+    background-image: url(../images/contacts_header.svg);
     background-repeat: no-repeat;
     background-position: center;
     height: 450px;
@@ -443,16 +443,16 @@ ul.footer_info li{
 }
 
 .list_decoration_call {
-    list-style: square inside url("images/phone.svg");
+    list-style: square inside url("../images/phone.svg");
 
 }
 
 .list_decoration_globe {
-    list-style: square inside url("images/globe.svg");
+    list-style: square inside url("../images/globe.svg");
 }
 
 .list_decoration_envelop {
-    list-style: square inside url("images/envelop.svg");
+    list-style: square inside url("../images/envelop.svg");
 }
 
 .padding_top {
